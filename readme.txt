@@ -1,0 +1,1 @@
+This exercise combines NODEJS and MONGODB for retrieving COVID19 data from the open repository, copying the information to a private DB, calculating the number of countries in the report, and uploading the result to the Amazon S3 servers.git init
